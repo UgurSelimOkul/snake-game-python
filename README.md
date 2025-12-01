@@ -20,7 +20,7 @@ A fully functional clone of the classic Snake arcade game, developed using Pytho
 
 ## 📸 Concept Art
 
-![Classic Snake Game AI Art](Snake_Game.jpeg)
+![Classic Snake Game AI Art](snake_game.jpeg)
 
 ## ⚙️ Installation & How to Run
 
